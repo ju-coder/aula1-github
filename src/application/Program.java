@@ -6,6 +6,7 @@ public class Program {
 		System.out.println("Olá, Mundo");
 		System.out.println("Olá, pessoas");
 		System.out.println("Olá, meninos!");
+		System.out.println("Ol´´a");
 	}
 
 }
